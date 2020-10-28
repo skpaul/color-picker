@@ -1,0 +1,18 @@
+F:\Softwares\Programming Tools\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+F:\Softwares\Programming Tools\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+F:\Softwares\Programming Tools\ColorPicker\ColorPicker\obj\Debug\ResolveAssemblyReference.cache
+F:\Softwares\Programming Tools\ColorPicker\ColorPicker\obj\Debug\ColorPicker.frmMain.resources
+F:\Softwares\Programming Tools\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+F:\Softwares\Programming Tools\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+F:\Softwares\Programming Tools\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+F:\Softwares\Programming Tools\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
+D:\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+D:\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+D:\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+D:\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csprojAssemblyReference.cache
+D:\ColorPicker\ColorPicker\obj\Debug\ColorPicker.frmMain.resources
+D:\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+D:\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.cache
+D:\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.CoreCompileInputs.cache
+D:\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+D:\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
